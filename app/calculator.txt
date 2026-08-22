@@ -1,1 +1,6 @@
-git status
+Calculator Application
+
+Operations:
+- Addition
+- Subtraction
+- Multiplication
