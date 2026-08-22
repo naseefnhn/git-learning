@@ -4,3 +4,4 @@ Operations:
 - Addition
 - Subtraction
 - Multiplication
+- Division
