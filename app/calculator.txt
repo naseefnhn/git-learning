@@ -5,5 +5,3 @@ Operations:
 - Subtraction
 - Multiplication
 - Division
-
-Status: Calculator backend ready
