@@ -5,3 +5,5 @@ Operations:
 - Subtraction
 - Multiplication
 - Division
+
+Status: Calculator UI in development
