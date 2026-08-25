@@ -8,4 +8,4 @@ Git commands are being practiced through hands-on exercises.
 
 ## GitHub Workflow
 
-This project is used to practice Git and GitHub workflows.
+This project is used to practice Git and GitHub workflows.ht
